@@ -1,0 +1,15 @@
+C:\Users\hai.le\source\repos\exc\exc3\obj\Debug\net6.0\exc3.csproj.AssemblyReference.cache
+C:\Users\hai.le\source\repos\exc\exc3\obj\Debug\net6.0\exc3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hai.le\source\repos\exc\exc3\obj\Debug\net6.0\exc3.AssemblyInfoInputs.cache
+C:\Users\hai.le\source\repos\exc\exc3\obj\Debug\net6.0\exc3.AssemblyInfo.cs
+C:\Users\hai.le\source\repos\exc\exc3\obj\Debug\net6.0\exc3.csproj.CoreCompileInputs.cache
+C:\Users\hai.le\source\repos\exc\exc3\bin\Debug\net6.0\exc3.exe
+C:\Users\hai.le\source\repos\exc\exc3\bin\Debug\net6.0\exc3.deps.json
+C:\Users\hai.le\source\repos\exc\exc3\bin\Debug\net6.0\exc3.runtimeconfig.json
+C:\Users\hai.le\source\repos\exc\exc3\bin\Debug\net6.0\exc3.dll
+C:\Users\hai.le\source\repos\exc\exc3\bin\Debug\net6.0\exc3.pdb
+C:\Users\hai.le\source\repos\exc\exc3\obj\Debug\net6.0\exc3.dll
+C:\Users\hai.le\source\repos\exc\exc3\obj\Debug\net6.0\refint\exc3.dll
+C:\Users\hai.le\source\repos\exc\exc3\obj\Debug\net6.0\exc3.pdb
+C:\Users\hai.le\source\repos\exc\exc3\obj\Debug\net6.0\exc3.genruntimeconfig.cache
+C:\Users\hai.le\source\repos\exc\exc3\obj\Debug\net6.0\ref\exc3.dll
